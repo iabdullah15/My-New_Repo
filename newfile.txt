@@ -1,0 +1,1 @@
+This is some text which I'm inserting through git bash
